@@ -1,0 +1,299 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.hmmtmobile.com" resolutions="1x" timestamp="1645949448336">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="models.css" crc="17093139" ref="models"/>
+    <file name="iefonts_models.css" crc="481424075" ref="models"/>
+    <file name="mobile-repair.css" crc="4200696457" ref="mobile-repair"/>
+    <file name="iefonts_mobile-repair.css" crc="4167200954" ref="mobile-repair"/>
+    <file name="contact.css" crc="4009167282" ref="contact"/>
+    <file name="iefonts_contact.css" crc="21912077" ref="contact"/>
+    <file name="index.css" crc="3946805157" ref="index"/>
+    <file name="iefonts_index.css" crc="76114956" ref="index"/>
+    <file name="downloads.css" crc="42346215" ref="downloads"/>
+    <file name="iefonts_downloads.css" crc="296137968" ref="downloads"/>
+    <file name="services.css" crc="474820655" ref="services"/>
+    <file name="gallery.css" crc="121120595" ref="gallery"/>
+    <file name="iefonts_gallery.css" crc="4246660275" ref="gallery"/>
+    <file name="about-us.css" crc="258735349" ref="about-us"/>
+    <file name="iefonts_about-us.css" crc="4275345123" ref="about-us"/>
+    <file name="accessories.css" crc="3854076702" ref="accessories"/>
+    <file name="iefonts_accessories.css" crc="372796473" ref="accessories"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:models:services:gallery:contact:accessories:mobile-repair:downloads:about-us"/>
+    <file name="museutils.js" crc="3939489907" ref="index:models:services:gallery:contact:accessories:mobile-repair:downloads:about-us"/>
+    <file name="whatinput.js" crc="86476730" ref="index:models:services:gallery:contact:accessories:mobile-repair:downloads:about-us"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:models:services:gallery:contact:accessories:mobile-repair:downloads:about-us"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index:models:services:gallery:contact:accessories:mobile-repair:downloads:about-us"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index:models:services:gallery:contact:accessories:mobile-repair:downloads:about-us"/>
+    <file name="webpro.js" crc="3856315280" ref="index:models:services:gallery:contact:accessories:mobile-repair:downloads:about-us"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index:models:services:gallery:contact:accessories:mobile-repair:downloads:about-us"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index:models:services:gallery:contact:accessories:mobile-repair:downloads:about-us"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index:models:services:gallery:contact:accessories:mobile-repair:downloads:about-us"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:models:services:gallery:contact:accessories:mobile-repair:downloads:about-us"/>
+    <file name="jquery.scrolleffects.js" crc="312044820" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:models:services:gallery:contact:accessories:mobile-repair:downloads:about-us"/>
+    <file name="require.js" crc="4177726516" ref="index:models:services:gallery:contact:accessories:mobile-repair:downloads:about-us"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="380987104" ref="index"/>
+    <file name="arrowmenudown.png" crc="262559161" ref="index:models:services:gallery:contact:accessories:mobile-repair:downloads:about-us">
+      <caption webpage="models" alt=""/>
+      <caption webpage="accessories" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="mobile-repair" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="downloads" alt=""/>
+    </file>
+    <file name="pattern-1779.jpg" crc="278963693" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="twitter.png" crc="360874920" ref="index:models:services:gallery:contact:accessories:mobile-repair:downloads:about-us">
+      <caption webpage="models" alt=""/>
+      <caption webpage="accessories" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="mobile-repair" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="downloads" alt=""/>
+    </file>
+    <file name="facebook-u709-fr.png" crc="4121643081" ref="index:models:services:gallery:contact:accessories:mobile-repair:downloads:about-us"/>
+    <file name="facebook.png" crc="4172500667" ref="index:models:services:gallery:contact:accessories:mobile-repair:downloads:about-us">
+      <caption webpage="models" alt=""/>
+      <caption webpage="accessories" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="mobile-repair" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="downloads" alt=""/>
+    </file>
+    <file name="instagram-u707-fr.png" crc="396326160" ref="index:models:services:gallery:contact:accessories:mobile-repair:downloads:about-us"/>
+    <file name="instagram.png" crc="4255375930" ref="index:models:services:gallery:contact:accessories:mobile-repair:downloads:about-us">
+      <caption webpage="models" alt=""/>
+      <caption webpage="accessories" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="mobile-repair" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="downloads" alt=""/>
+    </file>
+    <file name="mi-mix-4-hero.jpg" crc="4235401618" seo="true" ref="index:models:services:gallery:contact:accessories:mobile-repair:downloads:about-us">
+      <caption webpage="models" alt=""/>
+      <caption webpage="accessories" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="mobile-repair" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="downloads" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:models:services:gallery:contact:accessories:mobile-repair:downloads:about-us"/>
+    <file name="oppo.jpg" crc="926098" seo="true" ref="index:models:services:gallery:contact:accessories:mobile-repair:downloads:about-us">
+      <caption webpage="models" alt=""/>
+      <caption webpage="accessories" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="mobile-repair" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="downloads" alt=""/>
+    </file>
+    <file name="realme.jpg" crc="123562761" seo="true" ref="index:models:services:gallery:contact:accessories:mobile-repair:downloads:about-us">
+      <caption webpage="models" alt=""/>
+      <caption webpage="accessories" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="mobile-repair" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="downloads" alt=""/>
+    </file>
+    <file name="vivo.jpg" crc="420693706" seo="true" ref="index:models:services:gallery:contact:accessories:mobile-repair:downloads:about-us">
+      <caption webpage="models" alt=""/>
+      <caption webpage="accessories" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="mobile-repair" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="downloads" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index:models:services:gallery:contact:accessories:mobile-repair:downloads:about-us"/>
+    <file name="4392106.jpg" crc="3926968794" ref="index:models:services:gallery:contact:accessories:mobile-repair:downloads:about-us">
+      <caption webpage="models" alt=""/>
+      <caption webpage="accessories" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="mobile-repair" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="downloads" alt=""/>
+    </file>
+    <file name="download-u654-fr.jpg" crc="131217281" ref="index:models:services:gallery:contact:accessories:mobile-repair:downloads:about-us"/>
+    <file name="vivo-agencies-u657-fr.jpg" crc="303401352" ref="index:models:services:gallery:contact:accessories:mobile-repair:downloads:about-us"/>
+    <file name="xiaomi-logo-u660-fr.jpg" crc="23393936" ref="index:models:services:gallery:contact:accessories:mobile-repair:downloads:about-us"/>
+    <file name="pattern-acnj.jpg" crc="228677492" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vivo-y21-1629464870.jpg" crc="3958941321" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="xiaomi_mi_a3.jpg" crc="3919025071" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="xiaomi-logo.jpg" crc="4089973911" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dfgt.jpg" crc="212827691" ref="index:gallery">
+      <caption webpage="index" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="snap_screen_20210920002335.jpg" crc="4084742940" ref="models">
+      <caption webpage="models" alt=""/>
+    </file>
+    <file name="snap_screen_20210920002910.jpg" crc="212509012" ref="models">
+      <caption webpage="models" alt=""/>
+    </file>
+    <file name="snap_screen_20210920003639.jpg" crc="3933722870" ref="models">
+      <caption webpage="models" alt=""/>
+    </file>
+    <file name="snap_screen_20210922010133.jpg" crc="3784157516" ref="models">
+      <caption webpage="models" alt=""/>
+    </file>
+    <file name="snap_screen_20210922010243.jpg" crc="4051132568" ref="models">
+      <caption webpage="models" alt=""/>
+    </file>
+    <file name="snap_screen_20210922010358.jpg" crc="3898749848" ref="models">
+      <caption webpage="models" alt=""/>
+    </file>
+    <file name="snap_screen_20210922010336.jpg" crc="4238083366" ref="models">
+      <caption webpage="models" alt=""/>
+    </file>
+    <file name="snap_screen_20210922010311.jpg" crc="4126803816" ref="models">
+      <caption webpage="models" alt=""/>
+    </file>
+    <file name="snap_screen_20210922011725.jpg" crc="3901020298" ref="models">
+      <caption webpage="models" alt=""/>
+    </file>
+    <file name="snap_screen_202109220117252.jpg" crc="417583834" ref="models">
+      <caption webpage="models" alt=""/>
+    </file>
+    <file name="pppppp.jpg" crc="411523113" ref="models">
+      <caption webpage="models" alt=""/>
+    </file>
+    <file name="ppppppfggh.jpg" crc="38421204" ref="models">
+      <caption webpage="models" alt=""/>
+    </file>
+    <file name="snap_screen_20210922013923.jpg" crc="4206956849" ref="models">
+      <caption webpage="models" alt=""/>
+    </file>
+    <file name="snap_screen_20210922013830.jpg" crc="237117488" ref="models">
+      <caption webpage="models" alt=""/>
+    </file>
+    <file name="snap_screen_20210922013947.jpg" crc="4182184481" ref="models">
+      <caption webpage="models" alt=""/>
+    </file>
+    <file name="snap_screen_20210922014014.jpg" crc="4228903781" ref="models">
+      <caption webpage="models" alt=""/>
+    </file>
+    <file name="snap_screen_20210922014034.jpg" crc="4285744203" ref="models">
+      <caption webpage="models" alt=""/>
+    </file>
+    <file name="snap_screen_20210922014101.jpg" crc="4178678062" ref="models">
+      <caption webpage="models" alt=""/>
+    </file>
+    <file name="snap_screen_20210922014120.jpg" crc="3912222360" ref="models">
+      <caption webpage="models" alt=""/>
+    </file>
+    <file name="realme1.jpg" crc="3779193958" ref="models">
+      <caption webpage="models" alt=""/>
+    </file>
+    <file name="bhg.jpg" crc="3763469266" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="522ab149-d957-4037-9d15-13c5c9d6a462.jpg" crc="3801596384" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="d1.jpg" crc="209207416" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="5c5041a6-9efc-4fbf-b926-7b829751e905.jpg" crc="3956820961" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="017dc635-fb79-4574-b494-58e702eca24f.jpg" crc="3773943377" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="b1b29909-3ce8-4ac9-9674-69369f6dba4c.jpg" crc="321726865" ref="gallery:accessories">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="accessories" alt=""/>
+    </file>
+    <file name="pasted image 1133x375.jpg" crc="3835391824" seo="true" ref="accessories">
+      <caption webpage="accessories" alt=""/>
+    </file>
+    <file name="pasted image 1120x383.jpg" crc="3797459974" seo="true" ref="accessories">
+      <caption webpage="accessories" alt=""/>
+    </file>
+    <file name="pasted image 1130x382.jpg" crc="377440369" seo="true" ref="accessories">
+      <caption webpage="accessories" alt=""/>
+    </file>
+    <file name="pasted image 1123x364.jpg" crc="3949708705" seo="true" ref="accessories">
+      <caption webpage="accessories" alt=""/>
+    </file>
+    <file name="pasted image 1123x366.jpg" crc="4236720321" seo="true" ref="accessories">
+      <caption webpage="accessories" alt=""/>
+    </file>
+    <file name="mobile-repair-works.jpg" crc="285867717" ref="mobile-repair">
+      <caption webpage="mobile-repair" alt=""/>
+    </file>
+    <file name="istockphoto-1125323600-170667a.jpg" crc="3919923142" ref="mobile-repair">
+      <caption webpage="mobile-repair" alt=""/>
+    </file>
+    <file name="mobile-repairing-course-500x500.jpg" crc="175377032" ref="mobile-repair">
+      <caption webpage="mobile-repair" alt=""/>
+    </file>
+    <file name="smart-mobile-repairing-institute.jpg" crc="25856056" ref="mobile-repair">
+      <caption webpage="mobile-repair" alt=""/>
+    </file>
+    <file name="androidpit-samsung-galaxy-s20-ultra-review-08-w1400h1400.jpg" crc="4231193633" ref="downloads">
+      <caption webpage="downloads" alt=""/>
+    </file>
+    <file name="349960.jpg" crc="406965991" ref="downloads">
+      <caption webpage="downloads" alt=""/>
+    </file>
+    <file name="pixel_2_xl_in_hand_main-100738885-orig.jpg" crc="7828007" ref="downloads">
+      <caption webpage="downloads" alt=""/>
+    </file>
+    <file name="dfgt-u3869-fr.jpg" crc="4183983565" ref="about-us"/>
+    <file name="vivo-agencies.jpg" crc="406601489" ref="about-us">
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="download.jpg" crc="4057766409" ref="about-us"/>
+    <file name="xiaomi-logo-u3883-fr.jpg" crc="4151122472" ref="about-us"/>
+  </folder>
+  <file name="index.html" crc="4091653015" seo="true" mt="1634460519431" redirect="true"/>
+  <file name="models.html" crc="79007309" seo="true" mt="1634458704716" redirect="true"/>
+  <file name="services.html" crc="47474451" seo="true" mt="1634458704716" redirect="true"/>
+  <file name="gallery.html" crc="4169558170" seo="true" mt="1634458704716" redirect="true"/>
+  <file name="contact.html" crc="347604099" seo="true" mt="1634549981820" redirect="true"/>
+  <file name="accessories.html" crc="256799652" seo="true" mt="1634458704716" redirect="true"/>
+  <file name="mobile-repair.html" crc="4233368230" seo="true" mt="1634458704716" redirect="true"/>
+  <file name="downloads.html" crc="4195124460" seo="true" mt="1634458704716" redirect="true"/>
+  <file name="about-us.html" crc="197550119" seo="true" mt="1634458704716" redirect="true"/>
+</manifest>
